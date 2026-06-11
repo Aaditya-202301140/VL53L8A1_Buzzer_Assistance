@@ -1,0 +1,15 @@
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:90:9:BSP_GetVersion	4	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:107:9:BSP_PB_Init	24	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:147:9:BSP_PB_DeInit	40	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:165:9:BSP_PB_GetState	16	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:174:6:BSP_PB_IRQHandler	16	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:184:13:BSP_PB_Callback	16	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:197:13:BUTTON_USER_EXTI_Callback	8	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:206:13:BUTTON_USER_GPIO_Init	40	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:233:9:BSP_COM_Init	24	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:271:9:BSP_COM_DeInit	24	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:308:26:MX_USART2_UART_Init	24	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:410:9:BSP_COM_SelectLogPort	16	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:456:5:__io_putchar	16	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:469:13:USART2_MspInit	48	static
+C:/Users/13GEN/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-TOF1/3.4.3/Projects/NUCLEO-F401RE/Examples/53L8A1/VL53L8A1_Buzzer_Assistance/Src/stm32f4xx_nucleo.c:502:13:USART2_MspDeInit	16	static
