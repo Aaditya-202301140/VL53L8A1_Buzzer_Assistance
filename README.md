@@ -1,16 +1,23 @@
-VL53L8A1 Blind Assistance System
+# VL53L8A1 Buzzer Assistance System
 
-Hardware:
-- NUCLEO-F401RE
+## Overview
+Blind assistance system using VL53L8A1 ToF sensor and STM32 NUCLEO-F401RE.
+
+## Features
+- Distance measurement using VL53L8A1
+- Variable buzzer feedback
+  - 2.5m – 1.5m : Slow beep
+  - 1.5m – 0.5m : Fast beep
+  - < 0.5m : Continuous tone
+- PWM-based buzzer control using TIM2
+
+## Hardware
+- STM32 NUCLEO-F401RE
 - VL53L8A1 ToF Sensor
 - Passive Piezo Buzzer
 - BD139 Transistor
 
-Features:
-- Distance measurement using VL53L8A1
-- Slow beep from 2.5m to 1.5m
-- Fast beep from 1.5m to 0.5m
-- Continuous beep below 0.5m
-
-Author:
-Aaditya Singh
+## Development Environment
+- STM32CubeIDE
+- STM32CubeMX
+- X-CUBE-TOF1
