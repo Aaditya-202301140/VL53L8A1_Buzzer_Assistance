@@ -54,4 +54,4 @@ real-time distance monitoring, zone-based alerts, and live sensor configuration
 - **Protocol:** Simple text commands (`THR:`, `BUZZ:`, `SENSOR:`, `CMD:START`, 
   `CMD:STOP`, `CMD:BUZZ_TEST`) sent to firmware; sensor readings parsed back
 
-## Requirements
+
